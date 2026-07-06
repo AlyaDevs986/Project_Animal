@@ -1,0 +1,15 @@
+{
+  "algorithm": "MobileNetV2",
+  "is_dl": true,
+  "class_names": [
+    "cats",
+    "dogs",
+    "panda"
+  ],
+  "num_classes": 3,
+  "img_size": [
+    224,
+    224
+  ],
+  "accuracy": 0.99
+}
